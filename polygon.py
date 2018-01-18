@@ -4,7 +4,7 @@ from swampy.TurtleWorld import *
 
 world = TurtleWorld()
 bob = Turtle()
-length = 25
+length = 100
 n = 100
 
 def square(t, length, n):

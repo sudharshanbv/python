@@ -1,5 +1,5 @@
 
-"""Modify find so that it has a third parameter, the index in word where it should start
+"""sModify find so that it has a third parameter, the index in word where it should start
 looking."""
 
 def find(word, letter, start):

@@ -8,8 +8,8 @@ the elements from all of the nested lists."""
 def nested_sum(t):
     sum = 0
     for x in t:
-        for i in x:
-            sum += i
+        #for i in x:
+        sum += i
 
     return sum
 
